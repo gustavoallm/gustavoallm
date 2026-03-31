@@ -7,9 +7,9 @@ Full-Stack capable developer focused on building scalable, high-performance inte
 
 #### About
 
-- Frontend Developer specialized in **Web and Mobile applications**
-- Strong focus on **performance, scalability, and user experience**
-- Experience across **full product lifecycle**: concept → development → deployment -> scalability
+- 🎨 Frontend Developer specialized in **Web and Mobile applications**
+- 💪🏻 Strong focus on **performance, scalability, and user experience**
+- 🧙🏻‍♂️ Experience across **full product lifecycle**: concept → development → deployment -> scalability
 
 #### Tech Stack
 
@@ -42,4 +42,3 @@ Full-Stack capable developer focused on building scalable, high-performance inte
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/gageldev/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://gustavoallm.netlify.app/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
